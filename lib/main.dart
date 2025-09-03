@@ -1,6 +1,4 @@
-import 'package:crud_app/screens/add_newProduct_screen.dart';
 import 'package:crud_app/screens/home.dart';
-import 'package:crud_app/screens/update_Product_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
